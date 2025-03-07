@@ -30,4 +30,4 @@ This repository is released under the MIT License.
 - 2024-03-XX: Repository creation
 
 ---
-© 2024 Izanami Works. This repository is maintained by [izag8216](https://github.com/izag8216).
+© 2025 Izanami Works. This repository is maintained by [izag8216](https://github.com/izag8216).
