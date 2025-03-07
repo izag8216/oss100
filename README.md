@@ -27,7 +27,7 @@ Contributions are welcome! You can contribute in the following ways:
 This repository is released under the MIT License.
 
 ## Changelog
-- 2024-03-XX: Repository creation
+- 2025-03-07: Repository creation
 
 ---
 © 2025 Izanami Works. This repository is maintained by [izag8216](https://github.com/izag8216).
